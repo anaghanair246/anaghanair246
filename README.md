@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anagha 👋
 
-<!--
-**anaghanair246/anaghanair246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in AI/ML, Data Science & Software Development  
+🚀 Building real-world projects using Python, Streamlit, OpenCV and Deep Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Python
+- Streamlit
+- OpenCV
+- PyTorch
+- SQL
+- Power BI
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### Real-Time FMCG Weight Validation System
+- QR-based product validation system
+- Live weight tolerance checking
+- Streamlit dashboard
+- Product traceability & analytics
+
+### DisasterRes-Net
+- Disaster image classification using InceptionResNetV2
+- PyTorch-based deep learning pipeline
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR LINK
+- Email: YOUR EMAIL
