@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C+I'm+Anagha+Nair+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Builder;Turning+Data+into+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C+I'm+Anagha+Nair+%F0%9F%91%8B;CS+Student+%7C+AI%2FML+Builder;Turning+Data+into+Real+Impact)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=120&section=header&text=&fontSize=0" width="100%"/>
 
@@ -25,37 +25,65 @@
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════ -->
-<!-- FLAGSHIP PROJECT -->
-<!-- ════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    FLAGSHIP PROJECT                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/★_FLAGSHIP_PROJECT-c084fc?style=for-the-badge&labelColor=1a1a2e&color=c084fc"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
 <div align="center">
 
-### 🏭 FMCG Weight Validation System
-#### *Flagship Project*
+# 🏭 FMCG Weight Validation System
 
 <img src="https://img.shields.io/badge/STATUS-LIVE-22c55e?style=for-the-badge&labelColor=1a1a2e"/>
 &nbsp;
 <img src="https://img.shields.io/badge/TYPE-Full_Stack_App-c084fc?style=for-the-badge&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DOMAIN-FMCG_%7C_Quality_Control-a855f7?style=for-the-badge&labelColor=1a1a2e"/>
 
 </div>
 
 <br/>
 
-> A production-grade QR-based product validation system for FMCG quality control — featuring live weight checking, tolerance handling, scan history tracking, an analytics dashboard, and automated reporting.
+<div align="center">
+
+> A real-time quality assurance and product validation system developed for an **FMCG meat processing company** —
+> combining QR-based product identification, automated weight validation, and a full analytics suite into a single deployable app.
+
+</div>
 
 <br/>
 
-**Key Features:**
-- 📦 &nbsp;QR code scanning with real-time weight validation
-- ⚖️ &nbsp;Configurable tolerance bands per product category
-- 📜 &nbsp;Persistent scan history and traceability logs
-- 📊 &nbsp;Interactive analytics dashboard with trend analysis
-- 📋 &nbsp;Automated pass/fail reporting with export capability
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Core Validation Engine**
+- 📦 &nbsp;QR code scanning & product identification
+- ⚖️ &nbsp;Live weight checking with tolerance bands
+- ✅ &nbsp;Automatic ACCEPT / REJECT decisions
+- 📜 &nbsp;Persistent scan history & traceability logs
+
+</td>
+<td width="50%" valign="top">
+
+**Analytics & Reporting**
+- 📊 &nbsp;Interactive analytics dashboard
+- 🍩 &nbsp;Acceptance vs rejection donut charts
+- 📈 &nbsp;Individual product history analytics
+- 📋 &nbsp;CSV and Excel export capability
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -66,6 +94,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 <br/>
 
@@ -84,92 +113,69 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════ -->
-<!-- PROJECTS 2 & 3 — SIDE BY SIDE -->
+<!--               PROJECT 2                             -->
 <!-- ════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
-
-<!-- Project 2 -->
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 📊 Sales Dashboard
-
-<img src="https://img.shields.io/badge/TYPE-Data_Visualization-c084fc?style=flat-square&labelColor=1a1a2e"/>
-
-</div>
-
-<br/>
-
-> Interactive Power BI dashboard featuring KPIs, cross-functional business insights, and clean data visualization — designed for executive-level decision making.
-
-<br/>
-
-**Highlights:**
-- 📈 &nbsp;Multi-KPI performance tracking
-- 🔍 &nbsp;Drill-down filters and slicers
-- 💡 &nbsp;Automated business insight panels
-
-<br/>
-
-**Tech Stack:**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-<br/>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/anaghanair246)
-
-</div>
-
-</td>
-
-<!-- Project 3 -->
-<td width="50%" valign="top">
+<td>
 
 <div align="center">
 
 ### 🌪️ DisasterRes-Net
 
 <img src="https://img.shields.io/badge/TYPE-Deep_Learning-c084fc?style=flat-square&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DOMAIN-Computer_Vision-a855f7?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
 <br/>
 
-> Disaster scene classification system using transfer learning on InceptionResNetV2 — built to support rapid triage and situational awareness in emergency response.
+> Disaster scene classification system using transfer learning on **InceptionResNetV2** — built to support rapid triage and situational awareness in emergency response contexts.
 
 <br/>
 
-**Highlights:**
-- 🧠 &nbsp;InceptionResNetV2 + PyTorch pipeline
-- 🗂️ &nbsp;Multi-class disaster image classification
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Model & Architecture**
+- 🧠 &nbsp;InceptionResNetV2 transfer learning backbone
+- 🔁 &nbsp;PyTorch training and inference pipeline
 - 📡 &nbsp;Optimized for real-world image variance
+
+</td>
+<td width="50%" valign="top">
+
+**Classification & Evaluation**
+- 🗂️ &nbsp;Multi-class disaster image classification
+- 📊 &nbsp;Scikit-Learn metrics & evaluation suite
+- 🌍 &nbsp;Emergency response use-case targeting
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 **Tech Stack:**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-c084fc?style=flat-square&logoColor=white)
 
 <br/>
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/anaghanair246)
+[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/jeswintom22/DisasterRes-Net)
 
 </div>
 
 </td>
-
 </tr>
 </table>
 
@@ -192,6 +198,7 @@ learning:   MLOps · Model Deployment · Intelligent Systems
 interests:
   - Bridging the gap between ML research and production
   - Data-driven tools that solve real business problems
+  - Deep Learning & Computer Vision applications
   - Clean, maintainable code with clear impact
 ```
 
@@ -204,9 +211,11 @@ interests:
 
 🤖 &nbsp;AI / ML Enthusiast
 
-📊 &nbsp;Data Science & Dashboards
+📊 &nbsp;Data Science
 
 🔭 &nbsp;Computer Vision
+
+🧠 &nbsp;Deep Learning
 
 ⚙️ &nbsp;Software Development
 
@@ -246,7 +255,7 @@ interests:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 #### Tools & Deployment
 <p>
@@ -281,7 +290,7 @@ interests:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/anaghanair246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/anagha-nair-22227a367/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Say_Hello-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:anaghanair246@gmail.com)
 &nbsp;&nbsp;
@@ -295,6 +304,12 @@ interests:
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=100&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>Designed with intention · Built with purpose · <a href="https://github.com/anaghanair246">@anaghanair246</a></sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=100&section=footer" width="100%"/>
 
