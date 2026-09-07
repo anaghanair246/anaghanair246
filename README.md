@@ -96,7 +96,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-c084fc?style=flat-square)
-![PyTorch](https://img.shields.io/badge/Sentence_Transformers-Embeddings-a855f7?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-a855f7?style=flat-square)
 ![GitHub API](https://img.shields.io/badge/GitHub_REST_API-181717?style=flat-square&logo=github&logoColor=white)
 
 <br/>
@@ -123,17 +123,19 @@
 
 <div align="center">
 
-### 🌪️ DisasterRes-Net
+### 🏭 FMCG Weight Validation System
 
-<img src="https://img.shields.io/badge/TYPE-Deep_Learning-c084fc?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/TYPE-Full_Stack_App-c084fc?style=flat-square&labelColor=1a1a2e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DOMAIN-Computer_Vision-a855f7?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-22c55e?style=flat-square&labelColor=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DOMAIN-FMCG_%7C_Quality_Control-a855f7?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
 <br/>
 
-> Disaster scene classification system using transfer learning on **InceptionResNetV2** — built to support rapid triage and situational awareness in emergency response contexts.
+> A real-time quality assurance and product validation system developed for an **FMCG meat processing company**, combining QR-based product identification, automated weight validation, and analytics into a single deployable application.
 
 <br/>
 
@@ -141,18 +143,20 @@
 <tr>
 <td width="50%" valign="top">
 
-**Model & Architecture**
-- 🧠 &nbsp;InceptionResNetV2 transfer learning backbone
-- 🔁 &nbsp;PyTorch training and inference pipeline
-- 📡 &nbsp;Optimized for real-world image variance
+**Core Validation Engine**
+- 📦 &nbsp;QR code scanning & product identification
+- ⚖️ &nbsp;Live weight checking with tolerance bands
+- ✅ &nbsp;Automatic ACCEPT / REJECT decisions
+- 📜 &nbsp;Persistent scan history & traceability logs
 
 </td>
 <td width="50%" valign="top">
 
-**Classification & Evaluation**
-- 🗂️ &nbsp;Multi-class disaster image classification
-- 📊 &nbsp;Scikit-Learn metrics & evaluation suite
-- 🌍 &nbsp;Emergency response use-case targeting
+**Analytics & Reporting**
+- 📊 &nbsp;Interactive analytics dashboard
+- 🍩 &nbsp;Acceptance vs rejection donut charts
+- 📈 &nbsp;Individual product history analytics
+- 📋 &nbsp;CSV and Excel export capability
 
 </td>
 </tr>
@@ -163,16 +167,19 @@
 **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-c084fc?style=flat-square&logoColor=white)
 
 <br/>
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/jeswintom22/DisasterRes-Net)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_App-c084fc?style=for-the-badge&labelColor=1a1a2e)](https://fmcg-weight-validator.streamlit.app/)
+&nbsp;&nbsp;
+[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://github.com/anaghanair246/fmcg-weight-validation-system)
 
 </div>
 
